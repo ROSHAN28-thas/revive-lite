@@ -84,6 +84,10 @@ The project uses a synthetic failed-payment dataset. Recovery outcomes displayed
 
 A production version would validate recovery uplift with privacy-safe merchant data, verified payment outcomes, customer-consent controls, contact-frequency limits, and Razorpay webhook events.
 
+## Dashboard Screenshot
+
+![ReviveLite dashboard](docs/screenshots/revivelite-dashboard.png)
+
 ## Demo Video
 
 Demo video link: `To be added`
