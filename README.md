@@ -86,7 +86,7 @@ A production version would validate recovery uplift with privacy-safe merchant d
 
 ## Dashboard Screenshot
 
-![ReviveLite dashboard](docs/screenshots/revivelite-dashboard.png)
+![ReviveLite dashboard](./revivelite.png)
 
 ## Demo Video
 
