@@ -90,4 +90,4 @@ A production version would validate recovery uplift with privacy-safe merchant d
 
 ## Demo Video
 
-Demo video link: `To be added`
+Demo video link: https://youtu.be/eqzYGM0PPRY
